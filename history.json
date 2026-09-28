@@ -1,0 +1,799 @@
+{
+  "title": "The history of homeopathy",
+  "tagline": "From a German doctor's dose of bark in 1790 to one of India's official systems of medicine, tested along the way by chemistry and clinical trials.",
+  "intro": "Around 1800, medicine often meant bleeding and harsh purges. A German doctor, Samuel Hahnemann, proposed a gentler system built on \"like cures like\" and tiny doses. It spread across Europe and the Americas, and above all to India, where it became an official, regulated system with its own colleges and research council. Meanwhile chemistry showed that high dilutions contain no molecules of the starting substance, and large reviews of fair tests found no reliable evidence that it works better than placebo. Homeopaths dispute those reviews, and the debate continues.",
+  "eras": [
+    {
+      "id": "roots",
+      "name": "Old ideas, harsh medicine",
+      "from": -400,
+      "to": 1789,
+      "color": "#c49bff",
+      "summary": "The idea that \"like\" might cure \"like\" appears here and there, while mainstream medicine relies on bleeding, purging and blistering."
+    },
+    {
+      "id": "founding",
+      "name": "Hahnemann's system",
+      "from": 1790,
+      "to": 1843,
+      "color": "#ffb547",
+      "summary": "Hahnemann tests cinchona bark on himself, writes the Organon and builds homeopathy: similars, provings, single remedies and ever-higher dilutions."
+    },
+    {
+      "id": "spread",
+      "name": "Around the world, and to India",
+      "from": 1829,
+      "to": 1947,
+      "color": "#ff7a59",
+      "summary": "Homeopathy spreads across Europe and the Americas and reaches India through Lahore and Bengal, while science begins counting molecules."
+    },
+    {
+      "id": "india",
+      "name": "An official system in India",
+      "from": 1947,
+      "to": 2026,
+      "color": "#5ce1a9",
+      "summary": "India builds laws, colleges, a research council and a ministry for homeopathy alongside its other systems of medicine."
+    },
+    {
+      "id": "tests",
+      "name": "Put to the test",
+      "from": 1988,
+      "to": 2026,
+      "color": "#7aa2ff",
+      "summary": "Blinded experiments, large reviews and health services test homeopathy's claims. Most find no effect beyond placebo; homeopaths dispute them."
+    }
+  ],
+  "events": [
+    {
+      "year": -400,
+      "date": "c. 400 BCE",
+      "era": "roots",
+      "art": "scroll",
+      "title": "\"Like\" as a cure, in ancient writings",
+      "who": "Hippocratic writers (attributed)",
+      "where": "Ancient Greece",
+      "country": "Greece",
+      "text": "Some texts in the Hippocratic collection are said to note that certain illnesses can be eased by things that cause similar symptoms. The Swiss physician Paracelsus voiced a similar idea in the 1500s. It was one idea among many, not a system.",
+      "why": "Hahnemann would later turn this old hint into the centre of a whole system of medicine.",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1755,
+      "date": "10 April 1755",
+      "era": "roots",
+      "art": "person",
+      "title": "Samuel Hahnemann is born",
+      "who": "Samuel Hahnemann",
+      "where": "Meissen, Saxony",
+      "country": "Germany",
+      "text": "Hahnemann was born into a family of porcelain painters. He studied medicine in Leipzig, Vienna and Erlangen, and spoke many languages, which later let him earn a living as a translator.",
+      "why": "His skill as a translator put him in front of the book that started homeopathy.",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1784,
+      "date": "c. 1784",
+      "era": "roots",
+      "art": "quill",
+      "title": "A doctor quits in disgust",
+      "who": "Samuel Hahnemann",
+      "where": "Saxony",
+      "country": "Germany",
+      "text": "Hahnemann gave up medical practice, writing that the treatments of the day could make a doctor a danger to his patients. He supported his family by translating medical and chemistry books.",
+      "why": "His dislike of harsh treatment explains much of homeopathy's gentle approach.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1790,
+      "date": "1790",
+      "era": "founding",
+      "art": "leaf",
+      "title": "The cinchona bark experiment",
+      "who": "Samuel Hahnemann",
+      "where": "Leipzig, Saxony",
+      "country": "Germany",
+      "text": "Translating William Cullen's Materia Medica, Hahnemann doubted Cullen's explanation of why cinchona bark treats malaria fever. He took the bark himself while healthy and reported fever-like symptoms. Later repeats did not reliably produce the same effect.",
+      "why": "This self-test gave him the idea that \"like cures like\".",
+      "sources": [
+        0,
+        1,
+        2
+      ],
+      "key": true,
+      "box": "origins"
+    },
+    {
+      "year": 1796,
+      "date": "1796",
+      "era": "founding",
+      "art": "word",
+      "title": "An essay on a \"new principle\"",
+      "who": "Samuel Hahnemann",
+      "where": "Hufeland's Journal",
+      "country": "Germany",
+      "text": "Hahnemann published his \"Essay on a New Principle for Ascertaining the Curative Powers of Drugs\" in a leading German medical journal, arguing that drugs should be tested on healthy people and used for similar symptoms.",
+      "why": "This is usually counted as homeopathy's founding paper.",
+      "sources": [
+        1,
+        2
+      ]
+    },
+    {
+      "year": 1799,
+      "date": "December 1799",
+      "era": "roots",
+      "art": "heart",
+      "title": "Bloodletting at its height",
+      "who": "Doctors of George Washington",
+      "where": "Mount Vernon, Virginia",
+      "country": "United States",
+      "text": "As George Washington lay ill with a throat infection, his doctors drained an estimated 2.4 litres of his blood in about 12 hours, around 40% of the total. He died that night. Estimates vary.",
+      "why": "Next to \"heroic\" treatments like this, gentle remedies that did no harm looked very attractive.",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 1807,
+      "date": "1807",
+      "era": "founding",
+      "art": "word",
+      "title": "The word \"homeopathy\"",
+      "who": "Samuel Hahnemann",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "Hahnemann first used the term, from the Greek for \"similar\" and \"suffering\", in an essay in Hufeland's Journal. He also coined \"allopathy\" for ordinary medicine.",
+      "why": "The name stuck, and so did the split between the two words.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1810,
+      "date": "1810",
+      "era": "founding",
+      "art": "scroll",
+      "title": "The Organon",
+      "who": "Samuel Hahnemann",
+      "where": "Dresden",
+      "country": "Germany",
+      "text": "Hahnemann set out his full system in \"Organon der rationellen Heilkunde\": like cures like, provings on healthy people, one remedy at a time and the smallest dose. He revised it five times.",
+      "why": "The Organon is still the core text taught in homeopathy colleges, including India's BHMS course.",
+      "sources": [
+        3,
+        1
+      ],
+      "key": true,
+      "box": "ideas"
+    },
+    {
+      "year": 1820,
+      "date": "1820",
+      "era": "founding",
+      "art": "molecule",
+      "title": "Quinine is isolated",
+      "who": "Pierre-Joseph Pelletier and Joseph Caventou",
+      "where": "Paris",
+      "country": "France",
+      "text": "Two French chemists extracted quinine, the substance in cinchona bark that kills the malaria parasite. Quinine became a standard malaria drug.",
+      "why": "It showed that the bark works through a real chemical, not by causing similar symptoms.",
+      "sources": [
+        19
+      ],
+      "box": "origins"
+    },
+    {
+      "year": 1828,
+      "date": "1828",
+      "era": "founding",
+      "art": "scroll",
+      "title": "Chronic Diseases",
+      "who": "Samuel Hahnemann",
+      "where": "Köthen",
+      "country": "Germany",
+      "text": "Hahnemann published \"The Chronic Diseases\", proposing that long-lasting illness comes from deep underlying \"miasms\". He also moved towards higher dilutions such as 30C.",
+      "why": "Miasm theory and high potencies became central to classical homeopathy.",
+      "sources": [
+        1,
+        2
+      ]
+    },
+    {
+      "year": 1829,
+      "date": "1829–1839",
+      "era": "spread",
+      "art": "person",
+      "title": "Honigberger at the Lahore court",
+      "who": "Johann Martin Honigberger",
+      "where": "Lahore, Sikh Empire",
+      "country": "Pakistan",
+      "text": "Honigberger, a doctor from Transylvania, reached Lahore in 1829 and later returned at Maharaja Ranjit Singh's request. Accounts say he treated the Maharaja with a homeopathic remedy around 1839. Details come mostly from his own memoir.",
+      "why": "He is usually named as the person who brought homeopathy to the Indian subcontinent.",
+      "sources": [
+        5,
+        4
+      ],
+      "key": true,
+      "box": "origins"
+    },
+    {
+      "year": 1831,
+      "date": "1831–1832",
+      "era": "spread",
+      "art": "waterdrop",
+      "title": "Cholera and a growing reputation",
+      "who": "Homeopaths in Europe",
+      "where": "Central Europe",
+      "country": "Austria",
+      "text": "When cholera swept Europe, homeopathic hospitals reported fewer deaths than hospitals using bleeding and purges. Historians note the records are hard to compare, and avoiding harmful treatment may explain much of the difference.",
+      "why": "The reports helped homeopathy spread fast across Europe and to India.",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1843,
+      "date": "2 July 1843",
+      "era": "founding",
+      "art": "person",
+      "title": "Hahnemann dies in Paris",
+      "who": "Samuel Hahnemann",
+      "where": "Paris",
+      "country": "France",
+      "text": "Hahnemann died aged 88, after years of practice in Paris with his second wife, Mélanie d'Hervilly. His 6th edition of the Organon, finished in 1842, stayed unpublished.",
+      "why": "By then homeopathy had followers across Europe, the Americas and Asia.",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1844,
+      "date": "1844",
+      "era": "spread",
+      "art": "building",
+      "title": "America's first national medical society",
+      "who": "American Institute of Homeopathy",
+      "where": "New York",
+      "country": "United States",
+      "text": "Homeopaths founded the American Institute of Homeopathy, three years before the American Medical Association. Homeopathy became popular in the US in the 1800s.",
+      "why": "Homeopathy was once part of mainstream medicine in several countries.",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 1865,
+      "date": "1865",
+      "era": "spread",
+      "art": "molecule",
+      "title": "Counting molecules for the first time",
+      "who": "Josef Loschmidt",
+      "where": "Vienna",
+      "country": "Austria",
+      "text": "Loschmidt made the first estimate of the size of molecules and how many there are in a given amount of gas. This led to Avogadro's number, 6.022 × 10²³.",
+      "why": "It made it possible to show that high dilutions like 30C hold no molecule of the starting substance, something Hahnemann could not have known.",
+      "sources": [
+        20
+      ],
+      "box": "potency"
+    },
+    {
+      "year": 1867,
+      "date": "c. 1867",
+      "era": "spread",
+      "art": "person",
+      "title": "A leading Bengal doctor switches sides",
+      "who": "Mahendralal Sircar",
+      "where": "Calcutta (Kolkata)",
+      "country": "India",
+      "text": "Mahendralal Sircar, one of the first MD graduates of Calcutta University, publicly declared his support for homeopathy after being introduced to it by Rajendralal Dutta. He later founded the Indian Association for the Cultivation of Science (1876).",
+      "why": "His support gave homeopathy standing among educated Bengalis.",
+      "sources": [
+        21,
+        4
+      ]
+    },
+    {
+      "year": 1881,
+      "date": "1881",
+      "era": "spread",
+      "art": "building",
+      "title": "The Calcutta Homoeopathic Medical College",
+      "who": "P. C. Majumdar and D. N. Roy",
+      "where": "Calcutta (Kolkata)",
+      "country": "India",
+      "text": "Two Calcutta homeopaths founded one of the first homeopathy colleges in India. Bengal became the heart of Indian homeopathy.",
+      "why": "Formal teaching turned a popular practice into a profession in India.",
+      "sources": [
+        4,
+        30
+      ],
+      "key": true
+    },
+    {
+      "year": 1897,
+      "date": "1897",
+      "era": "spread",
+      "art": "scroll",
+      "title": "Kent's Repertory",
+      "who": "James Tyler Kent",
+      "where": "Philadelphia",
+      "country": "United States",
+      "text": "Kent published a huge index of symptoms, each listing remedies graded by type. It became the most used repertory in classical homeopathy, including in India.",
+      "why": "It is still the model for how homeopaths look up a remedy, now often in software.",
+      "sources": [
+        24
+      ],
+      "box": "making"
+    },
+    {
+      "year": 1910,
+      "date": "1910",
+      "era": "spread",
+      "art": "word",
+      "title": "The Flexner Report",
+      "who": "Abraham Flexner",
+      "where": "United States",
+      "country": "United States",
+      "text": "A report on American medical schools demanded training grounded in laboratory science. Homeopathic colleges in the US declined quickly afterwards.",
+      "why": "Homeopathy faded from mainstream Western medicine while it kept growing in India.",
+      "sources": [
+        22,
+        2
+      ]
+    },
+    {
+      "year": 1921,
+      "date": "1921",
+      "era": "spread",
+      "art": "scroll",
+      "title": "The last Organon is published",
+      "who": "Richard Haehl (editor)",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "The 6th edition of the Organon, which Hahnemann finished in 1842, was published at last. It describes the LM (1 in 50,000) potencies.",
+      "why": "Indian colleges teach this final edition.",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1973,
+      "date": "1973",
+      "era": "india",
+      "art": "scales",
+      "title": "Homoeopathy Central Council Act",
+      "who": "Parliament of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "India passed a law creating the Central Council of Homoeopathy to set standards for homeopathic education and keep a central register of practitioners.",
+      "why": "Homeopathy became a regulated profession in India, with the BHMS degree.",
+      "sources": [
+        8,
+        7
+      ],
+      "key": true
+    },
+    {
+      "year": 1978,
+      "date": "30 March 1978",
+      "era": "india",
+      "art": "flask",
+      "title": "CCRH is formed",
+      "who": "Government of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The Central Council for Research in Homoeopathy was set up to run research on homeopathy, including drug provings, drug standards and clinical studies. It now has institutes across India.",
+      "why": "Few countries have a government research council devoted to homeopathy.",
+      "sources": [
+        6
+      ],
+      "box": "evidence"
+    },
+    {
+      "year": 1988,
+      "date": "30 June 1988",
+      "era": "tests",
+      "art": "waterdrop",
+      "title": "\"Water memory\" in Nature",
+      "who": "Jacques Benveniste's laboratory",
+      "where": "Clamart",
+      "country": "France",
+      "text": "Benveniste's team reported that antibody solutions diluted far past 12C still affected blood cells. Nature published it with a warning, then sent a team that watched the tests repeated blind: the effect vanished. Later labs could not repeat it either.",
+      "why": "It remains the best-known attempt to show how a remedy with no molecules could act.",
+      "sources": [
+        12,
+        13
+      ],
+      "key": true,
+      "box": "potency"
+    },
+    {
+      "year": 2005,
+      "date": "27 August 2005",
+      "era": "tests",
+      "art": "scales",
+      "title": "The Lancet's big comparison",
+      "who": "Aijing Shang, Matthias Egger and colleagues",
+      "where": "Bern",
+      "country": "Switzerland",
+      "text": "The analysis compared 110 homeopathy trials with 110 matched trials of ordinary medicine. In the larger, better-run trials, homeopathy's effects were compatible with placebo, while ordinary medicine's were not. Homeopaths criticised how trials were chosen.",
+      "why": "It was one of the most cited studies in the debate about homeopathy.",
+      "sources": [
+        14
+      ],
+      "key": true,
+      "box": "evidence"
+    },
+    {
+      "year": 2009,
+      "date": "August 2009",
+      "era": "tests",
+      "art": "antibody",
+      "title": "WHO: not for serious infections",
+      "who": "World Health Organization",
+      "where": "Geneva",
+      "country": "Switzerland",
+      "text": "Answering young scientists, WHO officials said they do not recommend homeopathy for HIV, TB, malaria, influenza or infant diarrhoea.",
+      "why": "Delaying proven treatment for these diseases can be deadly.",
+      "sources": [
+        18
+      ],
+      "box": "wisely"
+    },
+    {
+      "year": 2010,
+      "date": "2010",
+      "era": "tests",
+      "art": "molecule",
+      "title": "Nanoparticles in high dilutions?",
+      "who": "Chikramane and colleagues, IIT Bombay",
+      "where": "Mumbai",
+      "country": "India",
+      "text": "Researchers at IIT Bombay reported tiny particles of the starting metal in some commercial high-potency metal remedies. The idea has not been independently confirmed as a way remedies act, and it does not cover plant remedies.",
+      "why": "It is one of the Indian research lines homeopaths cite, still debated.",
+      "sources": [
+        27
+      ],
+      "box": "potency"
+    },
+    {
+      "year": 2014,
+      "date": "9 November 2014",
+      "era": "india",
+      "art": "building",
+      "title": "A Ministry of AYUSH",
+      "who": "Government of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The department for Indian systems of medicine and homeopathy became a full ministry: AYUSH, for Ayurveda, Yoga and Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy.",
+      "why": "Homeopathy sits beside Ayurveda, Unani and Siddha as an official system in India.",
+      "sources": [
+        25,
+        11
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "March 2015",
+      "era": "tests",
+      "art": "scales",
+      "title": "Australia's NHMRC review",
+      "who": "National Health and Medical Research Council",
+      "where": "Canberra",
+      "country": "Australia",
+      "text": "After looking at 176 studies across 61 conditions, the NHMRC concluded there were no health conditions with reliable evidence that homeopathy was effective. Homeopathy groups disputed its methods; the NHMRC stood by its findings.",
+      "why": "It is the most-cited government review of homeopathy.",
+      "sources": [
+        15
+      ],
+      "key": true,
+      "box": "evidence"
+    },
+    {
+      "year": 2017,
+      "date": "November 2017",
+      "era": "tests",
+      "art": "building",
+      "title": "NHS England stops routine funding",
+      "who": "NHS England",
+      "where": "London",
+      "country": "United Kingdom",
+      "text": "After a public consultation, NHS England told local health bodies to stop routinely prescribing homeopathy, citing a lack of robust evidence. The High Court rejected a challenge in 2018.",
+      "why": "One of the health services where homeopathy had the longest history stepped back from it.",
+      "sources": [
+        16,
+        17,
+        29
+      ],
+      "key": true,
+      "box": "evidence"
+    },
+    {
+      "year": 2020,
+      "date": "September 2020",
+      "era": "india",
+      "art": "scales",
+      "title": "National Commission for Homoeopathy",
+      "who": "Parliament of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "A new law replaced the Central Council with the National Commission for Homoeopathy, which came into force on 5 July 2021. It regulates homeopathy colleges and the register of practitioners.",
+      "why": "India now has more than 3.45 lakh registered homeopathy practitioners.",
+      "sources": [
+        9,
+        7,
+        10
+      ],
+      "key": true
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Cinchona self-experiment",
+      "value": "1790",
+      "who": "Samuel Hahnemann, Germany"
+    },
+    {
+      "label": "Founding essay on the \"new principle\"",
+      "value": "1796",
+      "who": "Samuel Hahnemann, Germany"
+    },
+    {
+      "label": "The Organon",
+      "value": "1810",
+      "who": "Samuel Hahnemann, Germany"
+    },
+    {
+      "label": "Homeopathy reaches the Indian subcontinent",
+      "value": "1829–1839",
+      "who": "J. M. Honigberger, Lahore"
+    },
+    {
+      "label": "First national medical society in the US",
+      "value": "1844",
+      "who": "American Institute of Homeopathy"
+    },
+    {
+      "label": "Major homeopathy college in India",
+      "value": "1881",
+      "who": "Calcutta Homoeopathic Medical College"
+    },
+    {
+      "label": "Government research council for homeopathy",
+      "value": "1978",
+      "who": "CCRH, India"
+    }
+  ],
+  "people": [
+    {
+      "name": "Samuel Hahnemann",
+      "life": "1755 – 1843",
+      "role": "Physician and translator",
+      "from": "Germany",
+      "note": "Founded homeopathy and wrote the Organon."
+    },
+    {
+      "name": "Mélanie Hahnemann",
+      "life": "1800 – 1878",
+      "role": "Painter and homeopath",
+      "from": "France",
+      "note": "Hahnemann's second wife; practised homeopathy in Paris and kept his last Organon."
+    },
+    {
+      "name": "Johann Martin Honigberger",
+      "life": "1795 – 1869",
+      "role": "Physician",
+      "from": "Transylvania (Romania)",
+      "note": "Brought homeopathy to the court of Maharaja Ranjit Singh in Lahore."
+    },
+    {
+      "name": "Mahendralal Sircar",
+      "life": "1833 – 1904",
+      "role": "Physician and science builder",
+      "from": "India",
+      "note": "Leading Calcutta doctor who backed homeopathy and founded the IACS."
+    },
+    {
+      "name": "Pratap Chandra Majumdar",
+      "life": "1851 – 1922",
+      "role": "Homeopath and teacher",
+      "from": "India",
+      "note": "Co-founded the Calcutta Homoeopathic Medical College in 1881."
+    },
+    {
+      "name": "James Tyler Kent",
+      "life": "1849 – 1916",
+      "role": "Homeopath",
+      "from": "United States",
+      "note": "Wrote the repertory still used by homeopaths."
+    },
+    {
+      "name": "Josef Loschmidt",
+      "life": "1821 – 1895",
+      "role": "Physicist and chemist",
+      "from": "Austria",
+      "note": "First estimated how many molecules a substance contains."
+    },
+    {
+      "name": "Jacques Benveniste",
+      "life": "1935 – 2004",
+      "role": "Immunologist",
+      "from": "France",
+      "note": "Reported \"water memory\" in 1988; the result could not be repeated blind."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "Hahnemann died in 1843, 22 years before anyone first estimated how many molecules a substance holds.",
+    "A 30C remedy is diluted 1 in 10⁶⁰. To expect one molecule you would need about 10¹⁵ Earth oceans of it.",
+    "India has more than 3.45 lakh registered homeopathy practitioners, one of the largest numbers in the world.",
+    "The American Institute of Homeopathy, founded in 1844, is older than the American Medical Association."
+  ],
+  "sources": [
+    {
+      "title": "Samuel Hahnemann",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Samuel-Hahnemann"
+    },
+    {
+      "title": "Samuel Hahnemann",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samuel_Hahnemann"
+    },
+    {
+      "title": "Homeopathy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Homeopathy"
+    },
+    {
+      "title": "Organon of the Healing Art",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Organon_of_the_Healing_Art"
+    },
+    {
+      "title": "Origin and growth of homeopathy in India",
+      "publisher": "Homoeopathic Wing, Directorate of AYUSH, Govt of NCT of Delhi",
+      "url": "https://homeopathy.delhi.gov.in/homeopathy/origin-and-growth-homeopathy-india"
+    },
+    {
+      "title": "Johann Martin Honigberger",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Johann_Martin_Honigberger"
+    },
+    {
+      "title": "About the Council",
+      "publisher": "Central Council for Research in Homoeopathy (Ministry of Ayush)",
+      "url": "https://ccrhindia.ayush.gov.in/about-us/the-council?language_content_entity=en"
+    },
+    {
+      "title": "About us",
+      "publisher": "National Commission for Homoeopathy",
+      "url": "https://nch.org.in/about-us"
+    },
+    {
+      "title": "Homoeopathy Central Council Act, 1973",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Homoeopathy_Central_Council_Act,_1973"
+    },
+    {
+      "title": "National Commission for Homoeopathy Act, 2020",
+      "publisher": "India Code, Government of India",
+      "url": "https://www.indiacode.nic.in/handle/123456789/15621"
+    },
+    {
+      "title": "World Homoeopathy Day 2026",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=158081&ModuleId=3&reg=3&lang=1"
+    },
+    {
+      "title": "Homoeopathy in India: Tradition, Trust, and Tomorrow",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=154174&ModuleId=3"
+    },
+    {
+      "title": "Human basophil degranulation triggered by very dilute antiserum against IgE (Davenas et al.)",
+      "publisher": "Nature 333:816, 1988",
+      "url": "https://doi.org/10.1038/333816a0"
+    },
+    {
+      "title": "\"High-dilution\" experiments a delusion (Maddox, Randi and Stewart)",
+      "publisher": "Nature 334:287, 1988",
+      "url": "https://doi.org/10.1038/334287a0"
+    },
+    {
+      "title": "Are the clinical effects of homoeopathy placebo effects? (Shang et al.)",
+      "publisher": "The Lancet 366:726, 2005",
+      "url": "https://doi.org/10.1016/S0140-6736(05)67177-2"
+    },
+    {
+      "title": "NHMRC Information Paper: Evidence on the effectiveness of homeopathy for treating health conditions",
+      "publisher": "National Health and Medical Research Council, Australia, 2015",
+      "url": "https://www.nhmrc.gov.au/about-us/publications/homeopathy"
+    },
+    {
+      "title": "Items which should not routinely be prescribed in primary care",
+      "publisher": "NHS England, 2017",
+      "url": "https://www.england.nhs.uk/medicines-2/items-which-should-not-be-routinely-prescribed/"
+    },
+    {
+      "title": "Homeopathy legal challenge fails",
+      "publisher": "The Pharmaceutical Journal, 2018",
+      "url": "https://pharmaceutical-journal.com/article/news/homeopathy-legal-challenge-fails"
+    },
+    {
+      "title": "Homeopathy and the WHO",
+      "publisher": "Sense about Science (Voice of Young Science), 2009",
+      "url": "https://senseaboutscience.org/activities/voys-homeopathy/"
+    },
+    {
+      "title": "Quinine",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/science/quinine"
+    },
+    {
+      "title": "Josef Loschmidt",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Josef-Loschmidt"
+    },
+    {
+      "title": "Mahendralal Sarkar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mahendralal_Sarkar"
+    },
+    {
+      "title": "Flexner Report",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flexner_Report"
+    },
+    {
+      "title": "American Institute of Homeopathy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/American_Institute_of_Homeopathy"
+    },
+    {
+      "title": "James Tyler Kent",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Tyler_Kent"
+    },
+    {
+      "title": "Ministry of AYUSH",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_AYUSH"
+    },
+    {
+      "title": "A physician looks at the death of Washington (Vadakan)",
+      "publisher": "The Permanente Journal / Early America Review",
+      "url": "https://en.wikipedia.org/wiki/Death_of_George_Washington"
+    },
+    {
+      "title": "Extreme homeopathic dilutions retain starting materials: a nanoparticulate perspective (Chikramane et al., IIT Bombay)",
+      "publisher": "Homeopathy 99:231, 2010",
+      "url": "https://doi.org/10.1016/j.homp.2010.05.006"
+    },
+    {
+      "title": "Ultrafast memory loss and energy redistribution in the hydrogen bond network of liquid H2O (Cowan et al.)",
+      "publisher": "Nature 434:199, 2005",
+      "url": "https://doi.org/10.1038/nature03383"
+    },
+    {
+      "title": "Evidence Check 2: Homeopathy",
+      "publisher": "UK House of Commons Science and Technology Committee, 2010",
+      "url": "https://publications.parliament.uk/pa/cm200910/cmselect/cmsctech/45/45.pdf"
+    },
+    {
+      "title": "D. N. De Homoeopathic Medical College and Hospital / Calcutta Homoeopathic Medical College",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Calcutta_Homoeopathic_Medical_College_and_Hospital"
+    }
+  ]
+}

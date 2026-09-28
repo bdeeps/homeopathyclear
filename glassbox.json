@@ -1,0 +1,112 @@
+{
+  "slug": "homeopathyclear",
+  "box": 81,
+  "date": "2026-09-30",
+  "title": "HomeopathyClear",
+  "question": "How does homeopathy work?",
+  "hook": "Dilute a remedy 1 in 100, shake it, and repeat thirty times. Count the molecules with Avogadro's number, watch them run out at 12C, find out why 30C would need 10¹⁵ oceans to hold one, then run a fair test against a dummy pill.",
+  "thumbText": "HOW HOMEOPATHY WORKS",
+  "field": "body",
+  "minutes": 14,
+  "tags": [
+    "homeopathy",
+    "homoeopathy",
+    "Hahnemann",
+    "like cures like",
+    "potentisation",
+    "dilution",
+    "Avogadro's number",
+    "water memory",
+    "placebo",
+    "clinical trials",
+    "AYUSH",
+    "CCRH",
+    "BHMS",
+    "systems of medicine",
+    "human body",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A gentler medicine, from 1790",
+      "text": "Samuel Hahnemann took cinchona bark while healthy, felt fever-like symptoms, and built homeopathy on it. Around 1800 doctors bled patients and gave mercury purges, so gentle remedies caught on, and homeopathy reached India in the 1830s."
+    },
+    {
+      "title": "Like cures like, as homeopathy describes it",
+      "text": "Homeopathy teaches that a substance that causes symptoms in a healthy person, found in \"provings\", treats similar symptoms in the sick. A long consultation matches one remedy to the whole person, in the smallest dose."
+    },
+    {
+      "title": "Dilute and shake until nothing is left",
+      "text": "Each C step is 1 part in 100 with hard shaking. A mole holds 6.022 × 10²³ molecules, so by 12C most bottles hold none, and 30C would need about 10¹⁵ Earth oceans to hold one. \"Water memory\" failed blinded tests."
+    },
+    {
+      "title": "From plant to sugar pill",
+      "text": "A mother tincture is plant material soaked in alcohol. Insoluble things are ground with milk sugar. Drops of the dilution are soaked into sugar globules, and a repertory links symptoms to remedies."
+    },
+    {
+      "title": "What fair tests show",
+      "text": "Many people get better anyway, and people visit healers on their worst days. Randomised, blinded trials compare with a dummy pill. Australia's NHMRC found no condition with reliable evidence it beats placebo; homeopaths and India's CCRH dispute this."
+    },
+    {
+      "title": "Use it wisely",
+      "text": "The pills themselves carry little risk; delaying real treatment does. Never stop prescribed medicine, see a qualified doctor for serious illness, and keep vaccines up to date. Many choose homeopathy to feel heard: an Indian GP visit averages about 2 minutes."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Homeopathy",
+      "def": "A system of medicine founded by Samuel Hahnemann around 1796, built on \"like cures like\" and highly diluted remedies."
+    },
+    {
+      "term": "Similia similibus curentur",
+      "def": "\"Let like be cured by like\": homeopathy's principle that what causes symptoms in the healthy treats them in the sick."
+    },
+    {
+      "term": "Proving",
+      "def": "A test in which healthy volunteers take a substance and record their symptoms."
+    },
+    {
+      "term": "Potentisation",
+      "def": "Repeated dilution with vigorous shaking (succussion). 30C means 1 part in 10⁶⁰."
+    },
+    {
+      "term": "Avogadro's number",
+      "def": "6.022 × 10²³, the number of particles in one mole of a substance."
+    },
+    {
+      "term": "Mother tincture (Ø)",
+      "def": "The starting liquid for a plant remedy: plant material soaked in alcohol and filtered."
+    },
+    {
+      "term": "Repertory",
+      "def": "An index of symptoms, each listing the remedies linked to it."
+    },
+    {
+      "term": "Placebo",
+      "def": "A dummy treatment. Fair tests compare a remedy with one to see if it adds anything."
+    },
+    {
+      "term": "Regression to the mean",
+      "def": "After an unusually bad day, the next ones tend to be closer to normal, with or without treatment."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "homeopathyclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
